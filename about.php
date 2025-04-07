@@ -55,7 +55,7 @@
             who wanna have a good time <br><br>
             we just wanted to make this for the fun of it.<br>
         </p>
-        <a href="index.php">← Back to Home</a>
+        <a href="index.html">← Back to Home</a>
     </div>
 </body>
 </html>
