@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>About - Zinko & Crazy</title>
+    <style>
+        body {
+            margin: 0;
+            background-color: black;
+            color: white;
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            text-align: center;
+        }
+
+        .content {
+            max-width: 600px;
+            padding: 20px;
+        }
+
+        h1 {
+            font-size: 36px;
+            font-weight: bold;
+            margin-bottom: 20px;
+        }
+
+        p {
+            font-size: 20px;
+            font-weight: bold;
+            line-height: 1.6;
+            white-space: pre-line;
+        }
+
+        a {
+            color: #00bfff;
+            text-decoration: none;
+            font-size: 18px;
+            display: inline-block;
+            margin-top: 30px;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="content">
+        <h1>About This Website</h1>
+        <p>
+            I made this website for fun, and for crazy's request lol <br>
+            we are just best friends <br>
+            who wanna have a good time <br><br>
+            we just wanted to make this for the fun of it.<br>
+        </p>
+        <a href="index.php">← Back to Home</a>
+    </div>
+</body>
+</html>
